@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="../../.." name="github"/>
+  
+  <default remote="github" revision="master" sync-j="4"/>
+  
+  <project name="istio/auth" path="go/src/istio.io/auth" revision="d10e0c4aa05ca726cae71aa5d033dea4f7bc26e4" upstream="master"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="1a59818f3d5cc4f90f45df41d7c094bd0b35a023" upstream="master"/>
+  <project name="istio/mixer" path="go/src/istio.io/mixer" revision="bbd5e274f3ecebd4b6ed69a9e6948a1a98e21ab3" upstream="master"/>
+  <project name="istio/pilot" path="go/src/istio.io/pilot" revision="8f49411dcbebfd4fdf22ea5947ba884850dd4fe5" upstream="master"/>
+  <project name="istio/proxy" path="src/proxy" revision="5a9070aad08985815d57220a3d2c0001b62d586e" upstream="master"/>
+  <project name="mandarjog/core" path="go/src/istio.io/core" revision="461d6adcac110dab84ebd507f138f0dc93fa1cde" upstream="master"/>
+  <project name="sebastienvas/istio-global-build" path="build" revision="d81a8e1f733a76b4c96674764412c0d3a028ced3" upstream="master"/>
+</manifest>
