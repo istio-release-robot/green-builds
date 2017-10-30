@@ -5,10 +5,10 @@
   <default remote="github" revision="master" sync-j="4"/>
   
   <project name="istio/auth" path="go/src/istio.io/auth" revision="d10e0c4aa05ca726cae71aa5d033dea4f7bc26e4" upstream="master"/>
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="4bc13818eb53c1645b90d7acebaaf41b23035199" upstream="master"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="95996db56d6eebc1ef34fb97e5db8a414a7978f7" upstream="master"/>
   <project name="istio/mixer" path="go/src/istio.io/mixer" revision="5253b6b574a98b209c0ef3d0d6e90c1b8d6a5c2a" upstream="master"/>
-  <project name="istio/pilot" path="go/src/istio.io/pilot" revision="43f959cef4e71826244bf537e05362240ea8f3e2" upstream="master"/>
+  <project name="istio/pilot" path="go/src/istio.io/pilot" revision="0c4380723c59e3cba0037ed200cd64a07f0640da" upstream="master"/>
   <project name="istio/proxy" path="src/proxy" revision="212a8e48188b38870717b2704c593ed3ae0d60f2" upstream="master"/>
   <project name="mandarjog/core" path="go/src/istio.io/core" revision="461d6adcac110dab84ebd507f138f0dc93fa1cde" upstream="master"/>
-  <project name="sebastienvas/istio-global-build" path="build" revision="cccfb57e93e13617de0614a481cf2bd5fe9b4669" upstream="master"/>
+  <project name="sebastienvas/istio-global-build" path="build" revision="6917aba13d207e0ebc4cab26727432f8653b66aa" upstream="master"/>
 </manifest>
