@@ -9,5 +9,5 @@
   <project name="istio/proxy" path="src/proxy" revision="2b6b7087904b24e0769168b6fb28e6a904db2564" upstream="master"/>
   <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="99ea31e015b4b535672a67a0be2ca2f78fa5148f" upstream="master"/>
   <project name="sebastienvas/istio" path="go/src/istio.io/istio" revision="904804d1dbca6ceeed2d6284d0ef60bb4bd4827c" upstream="master"/>
-  <project name="sebastienvas/istio-global-build" path="build" revision="db73c917fdf6ce79f165859930193a1d0663a02e" upstream="master"/>
+  <project name="sebastienvas/istio-global-build" path="build" revision="52c5690b10fb251ceca932ea0656d6235d9d3962" upstream="master"/>
 </manifest>
