@@ -11,5 +11,5 @@
   <project name="istio/istio" path="go/src/istio.io/istio" revision="2606e68a4f44eaf634166476f3bbcf6e0537602a" upstream="master"/>
   <project name="istio/mixerclient" path="src/mixerclient" revision="904babedd0abe020f4868484b3a62eaf97c36cc0" upstream="master"/>
   <project name="istio/proxy" path="src/proxy" revision="2b6b7087904b24e0769168b6fb28e6a904db2564" upstream="master"/>
-  <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="63630396284cd92c4dfe1d9a451b9ec4aa9321d8" upstream="master"/>
+  <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="982b02f17e77f6f2ccb816740d0878df7b784438" upstream="master"/>
 </manifest>
