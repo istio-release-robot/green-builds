@@ -4,12 +4,12 @@
   
   <default remote="github" revision="master" sync-j="4"/>
   
-  <project name="envoyproxy/envoy" path="src/envoy" revision="7a7cf09472ce2cee931033a773d940033864d790" upstream="master"/>
-  <project name="istio/api" path="go/src/istio.io/api" revision="cd2246490572ef3b95524aae8940700caabeb72c" upstream="master"/>
+  <project name="envoyproxy/envoy" path="src/envoy" revision="3e43c2225c8882918b36b4b7c7bb55c6af2db929" upstream="master"/>
+  <project name="istio/api" path="go/src/istio.io/api" revision="f9e3e5ae78631d78d65be77146e616e77afba58b" upstream="master"/>
   <project name="istio/fortio" path="go/src/istio.io/fortio" revision="7ced3423593827a4637b7a63674bdeaa6c473afa" upstream="master"/>
   <project name="istio/global-build" path="build" revision="52c5690b10fb251ceca932ea0656d6235d9d3962" upstream="master"/>
   <project name="istio/istio" path="go/src/istio.io/istio" revision="bb95b7367b45b7efec7137dc968e6d72bab516ea" upstream="master"/>
-  <project name="istio/mixerclient" path="src/mixerclient" revision="e4128f7ae15e2b40cdd4f60365078d76dfc50441" upstream="master"/>
+  <project name="istio/mixerclient" path="src/mixerclient" revision="11943253feb69c5599c93f7c03fff5ac525c5c69" upstream="master"/>
   <project name="istio/proxy" path="src/proxy" revision="54dd33eaf8d4f66e7a901ce3c6e32fa87e15dd0c" upstream="master"/>
   <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="7278b392809f10ebf3b140b83b50dfd63a9a7d6c" upstream="master"/>
 </manifest>
