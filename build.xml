@@ -8,7 +8,7 @@
   <project name="istio/api" path="go/src/istio.io/api" revision="ecdcbe628b39330bb236a1d2a9f5ff228149cc3b" upstream="master"/>
   <project name="istio/fortio" path="go/src/istio.io/fortio" revision="c268f32f04735f89ab246a438c41d513e2336dee" upstream="master"/>
   <project name="istio/global-build" path="build" revision="ad255066b0c5fcd976ab2f1a7f753e25664e8405" upstream="master"/>
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="5e4c6365aa3043e03ba5ebf154dcc8c76f96ab19" upstream="master"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="d7f72816367cece96f01c1604a046fc8bf139f44" upstream="master"/>
   <project name="istio/mixerclient" path="src/mixerclient" revision="6f04c22f80bd7cf2360f10eb11e973e8aa2f31d4" upstream="master"/>
   <project name="istio/proxy" path="src/proxy" revision="e4a0005725b1f117b28c120d3a526ee4ca8cfbef" upstream="master"/>
   <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="470646bb988771c3bac655b1acf9aa70d68db5e4" upstream="master"/>
