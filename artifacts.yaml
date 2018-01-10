@@ -1,6 +1,6 @@
 docker:
   hub: gcr.io/istio-testing
-  tag: 20180110-4b2666087c
+  tag: 20180110-5c06c379c3
   images:
   - mixer
   - mixer_debug
