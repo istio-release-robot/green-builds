@@ -4,7 +4,7 @@
   
   <default remote="github" revision="master" sync-j="4"/>
   
-  <project name="envoyproxy/envoy" path="src/envoy" revision="c66c113776f8251a0b66d5dd32e671ba62b05624" upstream="master"/>
+  <project name="envoyproxy/envoy" path="src/envoy" revision="61a9741c3ae9b021b035ce810ab64c6a8f68ba18" upstream="master"/>
   <project name="istio/api" path="go/src/istio.io/api" revision="4ea90f7a854d8465c7f1c2c213fc9123520dedb9" upstream="master"/>
   <project name="istio/fortio" path="go/src/istio.io/fortio" revision="9b7c510489f5cf5ee8d78826567a4fa90957a88c" upstream="master"/>
   <project name="istio/global-build" path="build" revision="4daf29f60b5682f167dc3e21e92f1afc7ac5ef08" upstream="master"/>
