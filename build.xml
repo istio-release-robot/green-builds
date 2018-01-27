@@ -5,11 +5,11 @@
   <default remote="github" revision="master" sync-j="4"/>
   
   <project name="envoyproxy/envoy" path="src/envoy" revision="1628b7a0d023fef5fdf1013e9eeac49819ef62cd" upstream="master"/>
-  <project name="istio/api" path="go/src/istio.io/api" revision="274bb6df82b3a90439c796867f19f011a18688dc" upstream="master"/>
-  <project name="istio/fortio" path="go/src/istio.io/fortio" revision="9b7c510489f5cf5ee8d78826567a4fa90957a88c" upstream="master"/>
-  <project name="istio/global-build" path="build" revision="4daf29f60b5682f167dc3e21e92f1afc7ac5ef08" upstream="master"/>
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="50cfa8aa578b84e78fcb7b188f72774b60aaa557" upstream="master"/>
-  <project name="istio/mixerclient" path="src/mixerclient" revision="78b28351cef64486510fa9a26ba4fc589e80eb90" upstream="master"/>
-  <project name="istio/proxy" path="src/proxy" revision="0156fcfbb610338dbec21ae860d88e7ca5069582" upstream="master"/>
-  <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="144c42972c4dd9832f232618f0954984cd2b50cf" upstream="master"/>
+  <project name="silverdev/api" path="go/src/istio.io/api" revision="274bb6df82b3a90439c796867f19f011a18688dc" upstream="master"/>
+  <project name="silverdev/fortio" path="go/src/istio.io/fortio" revision="9b7c510489f5cf5ee8d78826567a4fa90957a88c" upstream="master"/>
+  <project name="silverdev/global-build" path="build" revision="4daf29f60b5682f167dc3e21e92f1afc7ac5ef08" upstream="master"/>
+  <project name="silverdev/istio" path="go/src/istio.io/istio" revision="50cfa8aa578b84e78fcb7b188f72774b60aaa557" upstream="master"/>
+  <project name="silverdev/mixerclient" path="src/mixerclient" revision="78b28351cef64486510fa9a26ba4fc589e80eb90" upstream="master"/>
+  <project name="silverdev/proxy" path="src/proxy" revision="0156fcfbb610338dbec21ae860d88e7ca5069582" upstream="master"/>
+  <project name="silverdev/test-infra" path="go/src/istio.io/test-infra" revision="144c42972c4dd9832f232618f0954984cd2b50cf" upstream="master"/>
 </manifest>
