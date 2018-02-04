@@ -5,11 +5,11 @@
   <default remote="github" revision="master" sync-j="4"/>
   
   <project name="envoyproxy/envoy" path="src/envoy" revision="8be6ad50155607ad7d4156563b801cd151af0693" upstream="master"/>
-  <project name="istio/api" path="go/src/istio.io/api" revision="c5185ac91e928c8ccd94a5342d8ad193bdf8b000" upstream="master"/>
-  <project name="istio/fortio" path="go/src/istio.io/fortio" revision="3ceae24cfd207f5dc625c0c0e03fa725f773ded5" upstream="master"/>
-  <project name="istio/global-build" path="build" revision="fc0a36dc062c4d3cbf86ce3930e869c65359acba" upstream="master"/>
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="9dbaf19f5e4c756c742dd06bbfc0a4837e1d67b0" upstream="master"/>
-  <project name="istio/mixerclient" path="src/mixerclient" revision="c82855bf6678489a79afd925e9944e5b5dc655db" upstream="master"/>
-  <project name="istio/proxy" path="src/proxy" revision="d3437ab589dbfe388d45b56a12d20ef628a713a2" upstream="master"/>
-  <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="d83426736200e9deb4357fb36802e01cdd8f7300" upstream="master"/>
+  <project name="istio-release-robot/api" path="go/src/istio.io/api" revision="c5185ac91e928c8ccd94a5342d8ad193bdf8b000" upstream="master"/>
+  <project name="istio-release-robot/fortio" path="go/src/istio.io/fortio" revision="3ceae24cfd207f5dc625c0c0e03fa725f773ded5" upstream="master"/>
+  <project name="istio-release-robot/global-build" path="build" revision="fc0a36dc062c4d3cbf86ce3930e869c65359acba" upstream="master"/>
+  <project name="istio-release-robot/istio" path="go/src/istio.io/istio" revision="9dbaf19f5e4c756c742dd06bbfc0a4837e1d67b0" upstream="master"/>
+  <project name="istio-release-robot/mixerclient" path="src/mixerclient" revision="c82855bf6678489a79afd925e9944e5b5dc655db" upstream="master"/>
+  <project name="istio-release-robot/proxy" path="src/proxy" revision="d3437ab589dbfe388d45b56a12d20ef628a713a2" upstream="master"/>
+  <project name="istio-release-robot/test-infra" path="go/src/istio.io/test-infra" revision="d83426736200e9deb4357fb36802e01cdd8f7300" upstream="master"/>
 </manifest>
