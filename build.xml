@@ -4,12 +4,12 @@
   
   <default remote="github" revision="master" sync-j="4"/>
   
-  <project name="envoyproxy/envoy" path="src/envoy" revision="3b0f649d8138c341f596f27b6b97cc0cf4e89805" upstream="master"/>
-  <project name="istio-release-robot/api" path="go/src/istio.io/api" revision="ebec456e6f980d4938b94924da14954e31c206eb" upstream="master"/>
-  <project name="istio-release-robot/fortio" path="go/src/istio.io/fortio" revision="3ceae24cfd207f5dc625c0c0e03fa725f773ded5" upstream="master"/>
-  <project name="istio-release-robot/global-build" path="build" revision="fc0a36dc062c4d3cbf86ce3930e869c65359acba" upstream="master"/>
-  <project name="istio-release-robot/istio" path="go/src/istio.io/istio" revision="6ba7e5877d75f66d4d61f5b9d3a729763369094b" upstream="master"/>
-  <project name="istio-release-robot/mixerclient" path="src/mixerclient" revision="d988416784e2010bb3fb6441bd62eadec07dac5d" upstream="master"/>
-  <project name="istio-release-robot/proxy" path="src/proxy" revision="b689b554aa6bb11a34ac83ef8f83452a821d0735" upstream="master"/>
-  <project name="istio-release-robot/test-infra" path="go/src/istio.io/test-infra" revision="73077e4bcf88e500c832cd9af838b7d0eea2f111" upstream="master"/>
+  <project name="envoyproxy/envoy" path="src/envoy" revision="4bd671d81ccf04da488ed4a6f574632eea959428" upstream="master"/>
+  <project name="istio/api" path="go/src/istio.io/api" revision="4adeda7cf333bd772bb5aaff35ebcf16d02582c2" upstream="master"/>
+  <project name="istio/fortio" path="go/src/istio.io/fortio" revision="90f368128b0f98754c16638b2512693066f6ab65" upstream="master"/>
+  <project name="istio/global-build" path="build" revision="fc0a36dc062c4d3cbf86ce3930e869c65359acba" upstream="master"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="7ee9afd88014791630423e47990304b26028d4f6" upstream="master"/>
+  <project name="istio/mixerclient" path="src/mixerclient" revision="dcc1fc6513c4a88cbfb0431bc039735ff71c9891" upstream="master"/>
+  <project name="istio/proxy" path="src/proxy" revision="e4ab9f1c18ccbf4789b985594196f20d6ff171d8" upstream="master"/>
+  <project name="istio/test-infra" path="go/src/istio.io/test-infra" revision="ca927b5df4770fc8f818b84ce69919fd044a72bb" upstream="master"/>
 </manifest>
